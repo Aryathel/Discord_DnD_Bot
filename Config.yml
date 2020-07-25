@@ -1,11 +1,11 @@
 # The name of the environment variable which will store the bot token.
-Token Env Var: Placeholder
+Token Env Var: DnDToken
 
 # Command prefix for all commands.
 Prefix: '!'
 
 # The channel ID of the channel taht the bot will send messages to.
-Log Channel: 601811847590576152
+Log Channel: 708470952345731093
 
 # The ID of the user you want to be pinged by the Broken command.
 Broken User ID: 246669108752416768
@@ -24,9 +24,9 @@ Game Status:
 Embed Settings:
   # The color of the sidebar for embedded messages, in RGB standard.
   Color:
-    r: 0
-    g: 0
-    b: 0
+    r: 254
+    g: 254
+    b: 254
 
   # This option will delete the user's message after they send a command.
   # NOTE: The bot needs "manage messages" permission for this to work.
